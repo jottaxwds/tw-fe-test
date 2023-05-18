@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "DMSerifDisplay";
+  src: url("./assets/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "DMSerifDisplay";
+  src: url("./assets/fonts/DM_Serif_Display/DMSerifDisplay-Italic.ttf")
+    format("truetype");
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Fredoka";
+  src: url("./assets/fonts/Fredoka/Fredoka-VariableFont_wdth\,wght.ttf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./assets/fonts/Raleway/Raleway-VariableFont_wght.ttf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./assets/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf")
+    format("truetype");
+  font-style: italic;
+  font-weight: 400;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "DMSerifDisplay", "Raleway", "Fredoka";
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  max-width: 1020px;
+  margin: auto;
+}

@@ -1,0 +1,9 @@
+{
+  "short_name": "Only Quality Food App",
+  "name": "Only Quality Food",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

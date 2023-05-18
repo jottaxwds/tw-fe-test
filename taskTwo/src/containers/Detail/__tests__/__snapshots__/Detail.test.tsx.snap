@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail container Should show ingredients list matching snapshot 1`] = `
+<ul
+  class="sc-jTQDnj foyXlk"
+  data-testid="ingredients-list"
+>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      3 tbsp
+    </strong>
+     Olive Oil
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      2 chopped
+    </strong>
+     Onions
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      2 sticks
+    </strong>
+     Celery
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      300g
+    </strong>
+     Carrots
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      500g
+    </strong>
+     Potatoes
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      4
+    </strong>
+     Bay Leaf
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      5 tblsp 
+    </strong>
+     Tomato Puree
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      2 tblsp 
+    </strong>
+     Sugar
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      2 tblsp 
+    </strong>
+     White Vinegar
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      1½ kg
+    </strong>
+     Chopped Tomatoes
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      500g
+    </strong>
+     Passata
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      3
+    </strong>
+     Vegetable Stock Cube
+  </li>
+  <li
+    class="sc-gLLvby fSskKK"
+  >
+    <strong>
+      400ml
+    </strong>
+     Whole Milk
+  </li>
+</ul>
+`;
+
+exports[`Detail container Should show instructions matching snapshot 1`] = `
+<article
+  class="sc-qZqnM gFWgwv"
+  data-testid="instructions"
+>
+  <div
+    class=""
+  >
+    <div
+      class=""
+      id=""
+    />
+  </div>
+  <p>
+    Put the oil, onions, celery, carrots, potatoes and bay leaves in a big casserole dish, or two saucepans. Fry gently until the onions are softened – about 10-15 mins. Fill the kettle and boil it.
+  </p>
+  <p>
+    Stir in the tomato purée, sugar, vinegar, chopped tomatoes and passata, then crumble in the stock cubes. Add 1 litre boiling water and bring to a simmer. Cover and simmer for 15 mins until the potato is tender, then remove the bay leaves. Purée with a stick blender (or ladle into a blender in batches) until very smooth. Season to taste and add a pinch more sugar if it needs it. The soup can now be cooled and chilled for up to 2 days, or frozen for up to 3 months.
+  </p>
+  <p>
+    To serve, reheat the soup, stirring in the milk – try not to let it boil. Serve in small bowls with cheesy sausage rolls.
+  </p>
+</article>
+`;
